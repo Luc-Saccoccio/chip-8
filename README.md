@@ -4,6 +4,7 @@
 - Sound
 - Name of the window
 - Resizing window should center resize the emulator screen without stretching, in the center and with black bars if needed.
+- Check if each possible error/wrong opcode is handled.
 - Optimization
 - Emulation speed ?
 - Colors ?
