@@ -3,6 +3,3 @@ all:
 
 clean:
 	rm chip-8
-
-test:
-	./test
